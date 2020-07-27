@@ -1,0 +1,105 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  color: #66BFBF;
+  margin:50px auto 0 auto;
+  font-size: 562.5%;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+}
+hr{
+  border-width:5px;
+  border-style: dotted none none none;
+  width: 10%;
+  border-color: grey;
+
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  padding-top:100px;
+  position: relative;
+}
+.middle-container {
+
+}
+.bottom-container {
+background-color:#66BFBF;
+margin-top: 10%;
+padding: 10px;
+}
+.programmer{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+
+}
+.pro{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position:absolute;
+  left:300px;
+  bottom: 300px;
+
+}
+.top-cloud{
+  position: absolute;
+  right:300px;
+  top:50px;
+
+}
+
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.Teamwork{
+  width: 60%;
+  float: right;
+  margin-right: 30px;
+}
+
+.Technology{
+  width: 60%;
+  float: right;
+  margin-right: 30px;
+
+}
+.Leader{
+  width: 60%;
+  float: left;
+  margin-right: 30px;
+}
+.Man{
+  width:23%;
+}
+.copyright{
+color: white;
+}
+.button{
+  background-color:#66BFBF;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
